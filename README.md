@@ -1,1 +1,1 @@
-# Blogging-backend-FastAPI
+Created Blogging backend with SQLlite database using ORM pattern and SQL alchemy. I used pydantic Basemodel for response from API. Also i used jwt tokens for verification and Route behind authentication
